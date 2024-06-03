@@ -17,6 +17,6 @@ To run the practices, it is necessary to have the appropriate Python libraries i
 
 ## Authors
 
-- Author 1: [Mario Izquierdo Álvarez]
-- Author 2: [Martín Romero Romero]
+- Mario Izquierdo Álvarez
+- Martín Romero Romero
 
