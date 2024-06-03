@@ -1,0 +1,9 @@
+model_name,accuracy
+preTrained_VGG16,0.968
+preTrained_InceptionV3,0.963
+preTrained_ResNet152V2,0.964
+preTrained_MobileNet,0.976
+preTrained_FineTuning_MobileNet,0.979
+preTrained_FineTuning_InceptionV3,0.965
+preTrained_FineTuning_ResNet152V2,0.973
+preTrained_FineTuning_VGG16,0.964

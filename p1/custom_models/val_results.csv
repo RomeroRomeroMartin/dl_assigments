@@ -1,0 +1,5 @@
+model_name,accuracy
+custom_simple_cnn,0.802
+custom_dp_bn_256,0.826
+custom_bn_l2_dAug_256,0.927
+custom_deepResNet_bn_l2,0.948

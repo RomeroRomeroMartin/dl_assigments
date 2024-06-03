@@ -1,0 +1,5 @@
+model_name,FID
+baseline_wGAN_gp,166.380
+wGAN_gp_low_dropOutCritic, 149.373
+wGAN_gp_low_dropOutCritic_lrScheduler, 139.031
+wGAN_gp_low_dropOutCritic_3X3_kernelGen, 273.492

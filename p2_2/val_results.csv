@@ -1,0 +1,17 @@
+model_name,accuracy
+SimpleRNN_32_16,0.771
+complex_SimpleRNN,0.786
+complex_SimpleRNN_dropOut,0.855
+complex_SimpleRNN_high_rec_dpOut,0.804
+complex_SimpleRNN_L2_bn,0.806
+complex_LSTM_dropout,0.873
+complex_LSTM_L2_bn,0.880
+complex_LSTM_L1_L2_bn,0.856
+simple_GRU,0.853
+mid_complex_GRU,0.864
+complex_GRU_L2_dp,0.866
+complex_GRU_L2_bn,0.868
+complex_bidirectional_GRU_L2_dp,0.839
+complex_bidirectional_LSTM_L2,0.884
+large_sequence_complex_bidirectional_LSTM,0.858
+bidirectional_LSTM_Attention,0.867
